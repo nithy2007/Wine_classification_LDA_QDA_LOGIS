@@ -16,9 +16,10 @@ The goal of this project is to:
   - Load and explore the Wine dataset
   - Split it into training and testing sets
   - Train and evaluate three classification models:
-      Linear Discriminant Analysis (LDA)
-      Quadratic Discriminant Analysis (QDA)
-      Multinomial Logistic Regression
+    
+      - Linear Discriminant Analysis (LDA)
+      - Quadratic Discriminant Analysis (QDA)
+      - Multinomial Logistic Regression
   - Compare their performance using accuracy scores and confusion matrices
 
     
