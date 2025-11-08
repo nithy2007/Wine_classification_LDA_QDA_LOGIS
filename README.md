@@ -1,5 +1,5 @@
-# Wine_classification_LDA_QDA_LOGIS
-Classification of linearly separable data
+# Wine_classification
+Classification of linearly separable data, using LDA, QDA and LOGISTIC Regression
 
 
 Wine Classification
